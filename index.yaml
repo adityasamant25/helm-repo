@@ -3,7 +3,7 @@ entries:
   fraud-detection-service:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-08-20T15:32:55.962745189Z"
+    created: "2020-08-20T15:37:09.245082486Z"
     description: A Helm chart for Kubernetes for the fraud-detection microservice
     digest: 9adbc01fda46888fb0914084d852785657e2962829e40bae77b58cdf2060f854
     name: fraud-detection-service
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://adityasamant25.github.io/helm-repo/fraud-detection-service-1.0.0.tgz
     version: 1.0.0
-generated: "2020-08-20T15:32:55.959686489Z"
+  loan-issuance-service:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2020-08-20T15:37:09.245826343Z"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: 115e0b98f6836caf46547c66be8fd17206569f66eafc17840beea526b600945b
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://adityasamant25.github.io/helm-repo/loan-issuance-service-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-08-20T15:37:09.244252007Z"
