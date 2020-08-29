@@ -2,24 +2,104 @@ apiVersion: v1
 entries:
   fraud-detection-service:
   - apiVersion: v2
+    appVersion: 1.2.0-SNAPSHOT
+    created: "2020-08-29T21:34:50.9260994+05:30"
+    description: A Helm chart for Kubernetes for the fraud-detection microservice
+    digest: 3d5856d2f762062951e54933fad2e772a92c18bb31e3fae1265128d2b2791499
+    name: fraud-detection-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/fraud-detection-service-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
     appVersion: 1.1.0
-    created: "2020-08-20T15:37:09.245082486Z"
+    created: "2020-08-29T21:34:50.9250998+05:30"
     description: A Helm chart for Kubernetes for the fraud-detection microservice
     digest: 9adbc01fda46888fb0914084d852785657e2962829e40bae77b58cdf2060f854
     name: fraud-detection-service
     type: application
     urls:
-    - https://adityasamant25.github.io/helm-repo/fraud-detection-service-1.0.0.tgz
+    - https://github.com/adityasamant25/helm-repo/fraud-detection-service-1.0.0.tgz
     version: 1.0.0
   loan-issuance-service:
   - apiVersion: v2
+    appVersion: 1.3.3-SNAPSHOT
+    created: "2020-08-29T21:34:50.9390939+05:30"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: 19548589b82d4853c5348f4351691e8cd80623c3b2b24dc771f23b67beaf9776
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.3.4.tgz
+    version: 1.3.4
+  - apiVersion: v2
+    appVersion: 1.3.2-SNAPSHOT
+    created: "2020-08-29T21:34:50.937094+05:30"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: 7bcc880b5e9d737a1eecaff21187f38fd2557952c8faa07496be31b09522bc06
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.3.3.tgz
+    version: 1.3.3
+  - apiVersion: v2
+    appVersion: 1.3.2-SNAPSHOT
+    created: "2020-08-29T21:34:50.934093+05:30"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: 3feb3c67d2c0f6c04f495432bb5787c76cfb8b94710e6f3e20ad7f128b617bf0
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.3.2.tgz
+    version: 1.3.2
+  - apiVersion: v2
+    appVersion: 1.3.1-SNAPSHOT
+    created: "2020-08-29T21:34:50.9330928+05:30"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: bd36854acb142350a9ced3690f7785019e6867bcce632a602d9baba3130ca988
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.3.1.tgz
+    version: 1.3.1
+  - apiVersion: v2
+    appVersion: 1.3.0-SNAPSHOT
+    created: "2020-08-29T21:34:50.9310944+05:30"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: e7a8c10425fdc8840fb956999b81c6bf5a5e55a886406b47899a0ce059c167f3
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.3.0.tgz
+    version: 1.3.0
+  - apiVersion: v2
+    appVersion: 1.3.0-SNAPSHOT
+    created: "2020-08-29T21:34:50.930096+05:30"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: 12f5506bc497b92ae07d553201d6550601649b97c7f740eb5dfbc0b06bfab895
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
+    appVersion: 1.3.0-SNAPSHOT
+    created: "2020-08-29T21:34:50.9280979+05:30"
+    description: A Helm chart for Kubernetes for the loan-issuance microservice
+    digest: b3ddfbc727416f7bd54c4ff13fb81417bac0204daefbe352889c090a62a81ca5
+    name: loan-issuance-service
+    type: application
+    urls:
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
     appVersion: 1.2.0
-    created: "2020-08-20T15:37:09.245826343Z"
+    created: "2020-08-29T21:34:50.9270969+05:30"
     description: A Helm chart for Kubernetes for the loan-issuance microservice
     digest: 115e0b98f6836caf46547c66be8fd17206569f66eafc17840beea526b600945b
     name: loan-issuance-service
     type: application
     urls:
-    - https://adityasamant25.github.io/helm-repo/loan-issuance-service-1.0.0.tgz
+    - https://github.com/adityasamant25/helm-repo/loan-issuance-service-1.0.0.tgz
     version: 1.0.0
-generated: "2020-08-20T15:37:09.244252007Z"
+generated: "2020-08-29T21:34:50.9240962+05:30"
